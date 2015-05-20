@@ -1,7 +1,7 @@
 ---
 layout: post
-titie: "Oh byeong ho"
-data: 2015-05-18 11:57:02
+title: "Oh byeong ho"
+date: 2015-05-20  11:57:02
 categories: jekyll update
 ---
 
