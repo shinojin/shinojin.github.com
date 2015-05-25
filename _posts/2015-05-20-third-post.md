@@ -8,18 +8,21 @@ categories: jekyll update
 ##Post
 
 #bold letter 1
-
+<p></p>
 ##bold letter 2
-
+<p></p>
 ###bold letter 3
-
+<p></p>
 ####bold letter 4
-
+<p></p>
 #####bold letter 5
+<p></p>
 
 *italic style*
 
+<p></p>
 **with bold style**
+<p></p>
 
 This is my third post.
 I'm awesome!
