@@ -16,11 +16,14 @@ categories: jekyll update
 
 
 [facebook](https://www.facebook.com/profile.php?id=100003330831739)
-[e-mail]: zet0221@koreatech.ac.kr
+[email][dd]
+
+[dd]: zet0221@koreatech.ac.kr
 
 ![logo](http://thimg.todayhumor.co.kr/upfile/201306/ctTDiHlgpmT5C44WB8iKipM.png)
 
 `code`example
+
 `HELLO`
 
 |NAME              |AGE       |
