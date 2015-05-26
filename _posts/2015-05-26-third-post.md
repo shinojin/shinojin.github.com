@@ -1,3 +1,9 @@
+---
+layout: post
+title: "kang dong yeup"
+date: 2015-05-26  23:55:23
+categories: jekyll update
+---
 #Kangdongyeup
 
 ##self-introduction
