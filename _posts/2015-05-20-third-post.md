@@ -6,6 +6,9 @@ categories: jekyll update
 ---
 
 ##Post
+###Post
+#####Post
+#########Post
 
 #bold letter 1
 <p></p>
@@ -41,10 +44,13 @@ I'm awesome!
 
 ##list in list
 - natural number
+<p></p>
 *sublist 1
 1. special list 1 
 - real number
+<p></p>
 	1.sublist 2
+<p></p>
 	2.sublist 3
 
 [Facebook](https://www.facebook.com)
@@ -67,6 +73,7 @@ Table is like below
 
 ```
 //awesome code
+<p></p>
 var ben = 0;
 ```
 
