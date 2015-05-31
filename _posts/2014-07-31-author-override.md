@@ -6,38 +6,18 @@ modified:
 excerpt: "A post to test author overrides using a data file."
 tags: []
 ---
-
-For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.
-
-Previously the theme used a global author for the entire site and those attributes would be used in all bylines, social networking links, Twitter Card attribution, and Google Authorship. These `owner` variables were defined in `config.yml`
-
-Start by modifying or creating a new `authors.yml` file in the `_data` folder and add your authors using the following format.
-
-{% highlight yaml %}
-# Authors
-
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
-{% endhighlight %}
-
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
-
-{% highlight yaml %}
-author: billy_rick
-{% endhighlight %}
+### 경기도 
+* 도시 : 가평
+가평군은 경기도 동북 산간지역에 놓여 있으며 북한강이 혼천강과 합류하여 서남방향으로 흐르는 고장으로, 수도권과 가까워서 많은 연인들이 즐겨찾는 도시입니다.
+* 관광명소 : [아침고요수목원](http://www.morningcalm.co.kr/)
+* 맛집 : [잣두부집](http://gpfriends.net/)
+* 숙박시설 : [콜린 펜션](http://collineps.net/)
+### 강원도
+* 도시 : 평창 봉평
+군청소재지로부터 북쪽으로 36㎞ 떨어진 곳에 위치한 면적 216.78㎢의 넓은 면적을 가지고 있는 면으로 동쪽은 진부면과 
+접해있고 남쪽은 대화면 서쪽은 횡성군 둔내면 그리고 북쪽은 홍천군 내면과 접해있으며, 특히 봉평면은 북쪽에 자리잡고 있는 
+회령봉을 비롯, 홍정산과 태기왕 전설을 안고 있는 태기산이 서쪽으로, 남쪽으로는 청태산과 대미산이 방림면과 경계를 이루며 
+우뚝 자리잡고 있어 이런 山들에 의해 병풍처럼 둘러싸여져 있는 곳입니다.
+* 관광명소 : 흥정 계곡
+* 맛집 : [메밀꽃 필 무렵](http://www.gasanhouse.com/menu.php)
+* 숙박시설 : [플란다스 펜션](http://www.fdpension.co.kr/)
