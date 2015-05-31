@@ -39,5 +39,5 @@ image:
 - ![그릴캠프 느루](https://github.com/shinojin/shinojin.github.com/blob/master/images/ks-greelcamp.jpg?raw=true)
 
 - 숙박시설 : [연풍별당 펜션](http://www.xn--ok1bs9pitht9o.kr/)
-- ![연풍별당 펜션]()
+- ![연풍별당 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/yppansion.jpg?raw=true)
 
