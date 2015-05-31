@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 충청도
+author: billy_rick
 excerpt: "충청도 여행지 포스트입니다."
 tags: []
 modified: 2014-09-14
