@@ -33,7 +33,7 @@ comments: true
 ![한옥마을](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-hanoktown.jpg?raw=true)
 
 - 맛집 : [전라도 음식이야기](www.jfoodstory.com)
-![전라도 음식이야기](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-foodstory.png?raw=true)
+![전라도 음식이야기](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-foodstory.png)
 
 - 숙박시설 : [르윈 호텔](http://hotellewin.com/)
 ![르윈 호텔](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-rwin.jpg?raw=true)
