@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "경상도"
+author: billy_rick
 excerpt: "경상도 여행지 포스트입니다."
 tags: [sample post, readability, test]
 comments: true
