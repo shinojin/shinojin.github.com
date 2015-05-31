@@ -3,7 +3,7 @@ layout: post
 title: "경기도 강원도"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "경기도 강원도 포스트입니다."
 tags: []
 ---
 ###경기도 
