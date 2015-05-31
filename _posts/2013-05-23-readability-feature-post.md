@@ -13,7 +13,9 @@ image:
 
 > 경주는 유네스코 세계유산이자 '노천박물관'으로 불릴 만큼 문화재가 지천에 널려 있는 문화와 역사의 도시로, 어딜 가나 볼거리가 많은 좋은 여행지입니다.
 
-- 관광명소 : 첨성대
+- 관광명소 
+
+-첨성대
 
 ![첨성대(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-chumsungdae.jpg?raw=true)
     
@@ -24,7 +26,7 @@ image:
 ![안압지(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-anapji.jpg?raw=true)
 (안압지(야경))
 
-- 버드파크
+-
 [버드파크](http://www.birdparks.co.kr)
 
 ![버드파크](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-birdpark.jpg?raw=true)
@@ -34,7 +36,7 @@ image:
    커다란 새 장 속으로 직접 들어가서 새들을 만지고 어깨에 올려보고 하는 공간, 연인과 함께 즐기기 최적화된 버드파크
 국내 최초의 체험형 화조원으로, 국제 희귀동물의 수입 및 전시가 가능한 시설이다.  
 
--캘리포니아 비치
+-
 [캘리포니아비치](http://www.gjw.co.kr/california)
 
 ![캘리포니아 비치](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-beach.jpg?raw=true)
@@ -52,7 +54,7 @@ image:
 
 경상북도 경주시 보불로 26 보불로오일뱅크(마동 위치) 소재.
 
-- 숙박시설 : 몽마르뜨 펜션
+- 숙박시설 :
 [스카이 글램핑](http://skyglamping.co.kr/)
 
 ![스카이글램핑](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-skyglamping.jpg?raw=true)
