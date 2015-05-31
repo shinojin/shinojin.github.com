@@ -6,9 +6,8 @@ modified:
 excerpt: "A post to test author overrides using a data file."
 tags: []
 ---
-<h2><li><span> 하이퍼링크test </span> 
-<a href="www.naver.com">네이버</a></li></h2>
-
+<h2>하이퍼링크</h2>
+<a href="www.naver.com" target="_blank"></a>
 {% highlight yaml %}
 
 billy_rick:
