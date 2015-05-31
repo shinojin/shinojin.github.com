@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Post with Large Feature Image and Text"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title: "경상도"
+excerpt: "경상도 여행지 포스트입니다."
 tags: [sample post, readability, test]
 comments: true
 image:
