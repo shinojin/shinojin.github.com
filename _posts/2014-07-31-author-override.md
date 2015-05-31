@@ -11,7 +11,7 @@ tags: []
 > 가평군은 경기도 동북 산간지역에 놓여 있으며 북한강이 혼천강과 합류하여 서남방향으로 흐르는 고장으로, 수도권과 가까워서 많은 연인들이 즐겨찾는 도시입니다.
 
 - 관광명소 : [아침고요수목원](http://www.morningcalm.co.kr/)
-![아침고요수목원](https://github.com/shinojin/shinojin.github.com/blob/master/images/dajyeon-sumokwon.jpg?raw=true)
+![아침고요수목원](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kapyung-achimsumokwon.jpg?raw=true)
 
 - 맛집 : [잣두부집](http://gpfriends.net/)
 ![잣두부집](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kapungjatdubu1.jpg?raw=true)
