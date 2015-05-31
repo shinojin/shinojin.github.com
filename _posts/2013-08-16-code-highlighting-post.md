@@ -5,6 +5,8 @@ author: billy_rick
 excerpt: "충청도 여행지 포스트입니다."
 tags: []
 modified: 2015-09-14
+image:
+  feature: sample-image-4.jpg
 ---
 
 
