@@ -16,6 +16,7 @@ image:
 > 대전은 대한민국의 중앙부에 위치하므로 중도라고도 부릅니다. 수도권과 영남·호남을 잇는 삼남의 관문이며, 고속도로와 철도, 국도가 분기하는 교통의 요지이기도 합니다. 또한, 수도권과 기타 지방과의 교통이 편리하기 때문에 여행으로 쉽게 즐길 수 있는 도시입니다.
 
 - 관광명소 : [첨성대](http://www.daejeon.go.kr/treegarden)
+- ![chumsungdae](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-chumsungdae.jpg?raw=true)
 
 - 맛집 : [가내수공업](www.가내수공업.com/)
 
