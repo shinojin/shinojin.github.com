@@ -12,6 +12,7 @@ comments: true
 > 풍광 수려한 전남 담양은 전남 최북단에 둥지를 튼 고을이다. 담양은 현대인들의 찌든 맘과 몸을 씻김하는 인식처로 유명세를 타고 있는 좋은 여행지입니다.
 
 - 관광명소 : [메타세쿼이아 길](http://newosilent.blog.me/220337958240)
+
 ![메타세쿼이아 길](https://github.com/shinojin/shinojin.github.com/blob/master/images/damgyang-metasq-gil.jpg?raw=true)
 
 - 맛집 : [항교죽녹원 식당](http://blog.naver.com/orangealive/220295231574)
@@ -19,6 +20,7 @@ comments: true
  ![항교죽녹원 식당](https://github.com/shinojin/shinojin.github.com/blob/master/images/damyanghanggyozukdocwon.jpg?raw=true)
 
 - 숙박시설 : [담양메타 펜션](http://metastory.co.kr)
+
 ![담양메타 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-damgyang%20meta.jpg?raw=true)
 
 
