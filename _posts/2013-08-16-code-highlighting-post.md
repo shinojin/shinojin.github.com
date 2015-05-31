@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: 충청도
+excerpt: "충청도 여행지 포스트입니다."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
@@ -113,9 +113,3 @@ module Jekyll
   end
 end
 ~~~
-
-### GitHub Gist Embed
-
-An example of a Gist embed below.
-
-{% gist mmistakes/6589546 %}
