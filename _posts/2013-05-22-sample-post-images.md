@@ -4,6 +4,8 @@ title: "전라도"
 excerpt: "전라도 여행지 포스트입니다."
 tags: [sample post, images, test]
 comments: true
+image:
+  feature: sample-image-4.jpg
 ---
 
 ##1.
