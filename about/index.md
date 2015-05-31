@@ -1,25 +1,16 @@
 ---
 layout: page
-title: About the Theme
+title: 연인들이 1박 2일로 가기 좋은 여행지 소개
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+많은 연인들이 고민하는 1박 2일 여행지에 대한 정보를 제공하기 위해서 이 블로그를 제작하였습니다. 많은 정보를 얻어 가시기 바랍니다. *^^*
 
-## Minimal Mistakes is all about:
+## 차별성:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* ‘연인’들이 1박 2일로 가기 좋은 여행지 (구체적 위치, 맛집, 숙박시설 정보 제공)
+* easy to get information through click! 
