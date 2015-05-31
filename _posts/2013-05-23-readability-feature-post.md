@@ -17,19 +17,19 @@ image:
 
 -첨성대
 
-![첨성대(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-chumsungdae.jpg?raw=true)
+![첨성대(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/chumsung.jpeg?raw=true)
     
 경상북도 경주시 인왕동 839-1 소재.
   
   천체의 움직임을 관찰하던 신라시대의 천문관측대이다. 신라 선덕여왕때 건립된 것으로 추측되고 동양에서 가장 오래된 천문대로서 가치가 높다. 첨성대의 야경은 혼자 보기 아까울 정도로, 걸어서 3분 거리에 위치한 안압지의 야경까지 구경한다면 금상첨화!
 
-![안압지(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-anapji.jpg?raw=true)
+![안압지(야경)](https://github.com/shinojin/shinojin.github.com/blob/master/images/yagyung.jpeg?raw=true)
 (안압지(야경))
 
 -
 [버드파크](http://www.birdparks.co.kr)
 
-![버드파크](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-birdpark.jpg?raw=true)
+![버드파크](https://github.com/shinojin/shinojin.github.com/blob/master/images/birdpak.jpg?raw=true)
 
 경상북도 경주시 보문로 74-14 (북군동 185-1) 소재.
 
@@ -48,7 +48,7 @@ image:
  
  
   
-###- 맛집 : 유수정 쌈밥집
+###- 맛집 : 
 [유수정 쌈밥](cityfood.co.kr/h9/yoosoojeong)
 
 ![유수정 쌈밥](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-matjip1.jpg?raw=true)
@@ -71,10 +71,31 @@ image:
 
 ##2. 도시 : 하동
 
-> 하동은 물길과 꽃길을 따라 역사가 숨 쉬는 고장이다. 민족의 영산 지리산을 따라 섬진강이 유유히 흐르고 남해 바다를 굽어볼 수 있는 천혜의 절경을 지닌 곳으로, 웰빙도시로 거듭나면서 외지인의 방문이 해마다 늘고 있는 즐거운 여행지입니다.
+> 하동은 물길과 꽃길을 따라 역사가 숨 쉬는 고장입니다. 민족의 영산 지리산을 따라 섬진강이 유유히 흐르고 남해 바다를 굽어볼 수 있는 천혜의 절경을 지닌 곳으로, 웰빙도시로 거듭나면서 외지인의 방문이 해마다 늘고 있는 즐거운 여행지입니다.
 
-- 관광명소 : 녹차밭
+###- 관광명소 : 
+-화개천계곡
 
-- 맛집 : 화개장터고향맛집
+![화개천계곡](https://github.com/shinojin/shinojin.github.com/blob/master/images/hd-hwagaechun.jpg?raw=true)
 
-- 숙박시설 : [플로렌스 펜션](www.sjflorence.com)
+  섬진강 본류와 화개천이 마주치는 화개장터에서부터 십리벚꽃길을 따라 의신마을 까지 16km의 계곡을 말한다. 녹차향기가 은은하게 스쳐 오니, 조용한 휴식을 원하는 도시인들에게 좋은 안식처이다.
+
+- 섬진강
+
+![섬진강](https://github.com/shinojin/shinojin.github.com/blob/master/images/hd-sumjingang.jpg?raw=true)
+
+
+
+###- 맛집 : 화개장터고향맛집
+
+![화개장터 고향맛집](https://github.com/shinojin/shinojin.github.com/blob/master/images/whagae.jpg?raw=true)
+![1](https://github.com/shinojin/shinojin.github.com/blob/master/images/whagae2.jpg?raw=true)
+
+
+###- 숙박시설 : [플로렌스 펜션](www.sjflorence.com)
+
+![플로렌스 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/florence.jpg?raw=true)
+
+  펜션에서 간단하게 식사를 할 수도 있고, 주위에 관광지가 밀집해 있어 여행이 한층 더 편할 것이다.
+  조금 비싼 가격대가 단점.
+  자세한 정보는 [여기](http://www.sjflorence.com/default/service/service1.php)
