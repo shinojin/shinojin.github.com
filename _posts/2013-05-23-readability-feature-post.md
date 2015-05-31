@@ -13,7 +13,7 @@ image:
 
 > 경주는 유네스코 세계유산이자 '노천박물관'으로 불릴 만큼 문화재가 지천에 널려 있는 문화와 역사의 도시로, 어딜 가나 볼거리가 많은 좋은 여행지입니다.
 
-#- 관광명소 
+###- 관광명소 
 
 -첨성대
 
@@ -48,7 +48,7 @@ image:
  
  
   
-#- 맛집 : 유수정 쌈밥집
+###- 맛집 : 유수정 쌈밥집
 [유수정 쌈밥](cityfood.co.kr/h9/yoosoojeong)
 
 ![유수정 쌈밥](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-matjip1.jpg?raw=true)
@@ -56,7 +56,7 @@ image:
 
 경상북도 경주시 보불로 26 보불로오일뱅크(마동 위치) 소재.
 
-#- 숙박시설 :
+###- 숙박시설 :
 [스카이 글램핑](http://skyglamping.co.kr/)
 
 ![스카이글램핑](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-skyglamping.jpg?raw=true)
