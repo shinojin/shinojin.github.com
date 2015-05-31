@@ -4,6 +4,7 @@ title: "경기도 강원도"
 author: billy_rick
 excerpt: "경기도 강원도 여행지 포스트입니다."
 tags: []
+comments: true
 image:
   feature: sample-image-4.jpg
 ---
