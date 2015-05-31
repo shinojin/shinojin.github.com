@@ -30,4 +30,4 @@ tags: []
 
 - 맛집 : [메밀꽃 필 무렵](http://www.gasanhouse.com/menu.php)
 
-- 숙박시설 : [플란다스 펜션](http://www.fdpension.co.kr/)
+- 숙박설 : [플란다스 펜션](http://www.fdpension.co.kr/)
