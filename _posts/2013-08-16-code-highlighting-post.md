@@ -7,7 +7,6 @@ tags: []
 modified: 2014-09-14
 ---
 
-{% highlight css %}
 
 ###경기도 
 #1.
@@ -33,5 +32,3 @@ modified: 2014-09-14
 
 - 숙박시설 : [연풍별당 펜션](http://www.xn--ok1bs9pitht9o.kr/)
 
-
-{% endhighlight %}
