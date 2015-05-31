@@ -33,5 +33,3 @@ tags: []
 * 숙박시설 : [플란다스 펜션](http://www.fdpension.co.kr/)
 
 {% endhighlight %}
-
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
