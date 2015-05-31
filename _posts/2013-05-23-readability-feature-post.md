@@ -13,7 +13,7 @@ image:
 
 > 경주는 유네스코 세계유산이자 '노천박물관'으로 불릴 만큼 문화재가 지천에 널려 있는 문화와 역사의 도시로, 어딜 가나 볼거리가 많은 좋은 여행지입니다.
 
-- 관광명소 
+#- 관광명소 
 
 -첨성대
 
@@ -45,8 +45,10 @@ image:
 
   2008년 6월 21일 오픈한 "캘리포니아 비치"는 33,000m의 대규모 시설로서 계획 단계부터 세계적인 테마파크 전문 설계 회사인 캐나다 forrec사에 컨셉 및 상세설계를 의뢰하여 진행하는 등 국내 다른 워터 파크 시설과는 차별된 즐거움을 전달하는 워터파크. 시원한 여름을 보내기 최적화된 워터파크! 2015년도는 6월 6일에 open 예정!
   
+ 
+ 
   
-- 맛집 : 유수정 쌈밥집
+#- 맛집 : 유수정 쌈밥집
 [유수정 쌈밥](cityfood.co.kr/h9/yoosoojeong)
 
 ![유수정 쌈밥](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-matjip1.jpg?raw=true)
@@ -54,10 +56,12 @@ image:
 
 경상북도 경주시 보불로 26 보불로오일뱅크(마동 위치) 소재.
 
-- 숙박시설 :
+#- 숙박시설 :
 [스카이 글램핑](http://skyglamping.co.kr/)
 
 ![스카이글램핑](https://github.com/shinojin/shinojin.github.com/blob/master/images/gsd-kj-skyglamping.jpg?raw=true)
+
+경상북도 경주시 하동 332-3 러브캐슬 성테마박물관 옆 소재.
 
 2인 기준 87000원의 비교적 저렴한 가격대.
 별다른 준비 없이 야외 캠핑 분위기를 물씬 느낄 수 있다.
