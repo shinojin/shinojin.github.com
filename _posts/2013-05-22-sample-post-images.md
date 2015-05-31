@@ -13,7 +13,7 @@ comments: true
 
 - 관광명소 : 메타세쿼이아 길
 
-- 맛집 : [죽녹원 떡갈비 식당](http://www.gasanhouse.com/menu.php)
+- 맛집 : [항교죽녹원 식당](http://blog.naver.com/orangealive/220295231574)
 
 - 숙박시설 : [담양메타 펜션](http://metastory.co.kr)
 
