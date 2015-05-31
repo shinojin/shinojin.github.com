@@ -20,11 +20,11 @@ image:
       alt="Beach hut" title="Attraction of Gongju">
 	<area href="http://tour.shinan.go.kr" shape="rect" coords="52,475,80,493"
       alt="Beach hut" title="Attraction of Shinan">  
-	<area href="http://tour.taebaek.go.kr" shape="rect" coords="368,178,,493"
+	<area href="http://tour.taebaek.go.kr" shape="rect" coords="368,178,389,200"
       alt="Beach hut" title="Attraction of Taebaek">    
 	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="125,283,145,301"
       alt="Beach hut" title="Attraction of cheongyang">  
-	<area href="http://tour.inje.go.kr" shape="rect" coords="278,55,374,76"
+	<area href="http://tour.inje.go.kr" shape="rect" coords="254,38,280,65"
       alt="Beach hut" title="Attraction of Inje">  
 	 <area href="http://tour.dangjin.go.kr" shape="rect" coords="59,75,104,210"
       alt="Beach hut" title="Attraction of dangjin">  
