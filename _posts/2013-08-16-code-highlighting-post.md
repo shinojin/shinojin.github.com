@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 충청도
-author: 신호진
 excerpt: "충청도 여행지 포스트입니다."
 tags: []
 modified: 2014-09-14
