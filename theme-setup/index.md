@@ -16,11 +16,11 @@ image:
   <map name="koreanmap">
     <area href="http://tour.gongju.go.kr" shape="rect" coords="160,284,180,296"
       alt="Beach hut" title="Attraction of Gongju">
-	<area href="http://tour.shinan.go.kr" shape="rect" coords="52,475,80,493"
+	<area href="http://tour.shinan.go.kr" shape="rect" coords="22,425,50,443"
       alt="Beach hut" title="Attraction of Shinan">  
 	<area href="http://tour.taebaek.go.kr" shape="rect" coords="368,178,389,200"
       alt="Beach hut" title="Attraction of Taebaek">    
-	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="121,270,147,295"
+	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="91,220,117,245"
       alt="Beach hut" title="Attraction of cheongyang">  
 	<area href="http://tour.inje.go.kr" shape="rect" coords="254,38,280,65"
       alt="Beach hut" title="Attraction of Inje">  
