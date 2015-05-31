@@ -6,57 +6,26 @@ tags: [sample post, images, test]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+##1.
+- 도시 : 담양
 
-### Figures (for images or video)
+> 풍광 수려한 전남 담양은 전남 최북단에 둥지를 튼 고을이다. 담양은 현대인들의 찌든 맘과 몸을 씻김하는 인식처로 유명세를 타고 있는 좋은 여행지입니다.
 
-#### One Up
+- 관광명소 : 메타세쿼이아 길
 
-<figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
+- 맛집 : [죽녹원 떡갈비 식당](http://www.gasanhouse.com/menu.php)
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+- 숙박시설 : [담양메타 펜션](http://metastory.co.kr)
 
-#### Two Up
 
-Apply the `half` class like so to display two images side by side that share the same caption.
 
-{% highlight html %}
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-{% endhighlight %}
+##2.
+- 도시 : 전주
 
-And you'll get something that looks like this:
+> 전주는 900년 견훤이 세운 후백제의 수도이자, 조선왕조 500년을 꽃피운 탯자리로 역사의 중심이 되어온 도시로, 최근에 들어서는 여러 유명한 맛집으로 많은 외지인들에게 인기를 몰고 있는 여행지입니다.
 
-<figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
+- 관광명소 : [한옥마을](hanok.jeonju.go.kr)
 
-#### Three Up
+- 맛집 : [전라도 음식이야기](www.jfoodstory.com)
 
-Apply the `third` class like so to display three images side by side that share the same caption.
-
-{% highlight html %}
-<figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-{% endhighlight %}
-
-And you'll get something that looks like this:
-
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
-</figure>
+- 숙박시설 : [르윈 호텔](http://hotellewin.com/)
