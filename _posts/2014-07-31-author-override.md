@@ -11,13 +11,13 @@ tags: []
 > 가평군은 경기도 동북 산간지역에 놓여 있으며 북한강이 혼천강과 합류하여 서남방향으로 흐르는 고장으로, 수도권과 가까워서 많은 연인들이 즐겨찾는 도시입니다.
 
 - 관광명소 : [아침고요수목원](http://www.morningcalm.co.kr/)
-- ![아침고요수목원](https://github.com/shinojin/shinojin.github.com/blob/master/images/dajyeon-sumokwon.jpg?raw=true)
+![아침고요수목원](https://github.com/shinojin/shinojin.github.com/blob/master/images/dajyeon-sumokwon.jpg?raw=true)
 
 - 맛집 : [잣두부집](http://gpfriends.net/)
-- ![잣두부집](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kapungjatdubu1.jpg?raw=true)
+![잣두부집](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kapungjatdubu1.jpg?raw=true)
 
 - 숙박시설 : [콜린 펜션](http://collineps.net/)  
-- ![콜린 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kp-collin.jpg?raw=true)
+![콜린 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/kkd-kp-collin.jpg?raw=true)
 
 
 
@@ -30,11 +30,11 @@ tags: []
 우뚝 자리잡고 있어 이런 山들에 의해 병풍처럼 둘러싸여져 있는 곳입니다.
 
 - 관광명소 : 흥정 계곡
-- ![흥정계곡](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-pyungchang-hjbeach.jpg?raw=true)
+![흥정계곡](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-pyungchang-hjbeach.jpg?raw=true)
 
 - 맛집 : [메밀꽃 필 무렵](http://www.gasanhouse.com/menu.php)
-- ![메밀꽃 필 무렵](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-mmflower.jpg?raw=true)
+![메밀꽃 필 무렵](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-mmflower.jpg?raw=true)
 
 - 숙박시설 : [플란다스 펜션](http://www.fdpension.co.kr/)
-- ![플란다스 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-plandas.jpg?raw=true)
+![플란다스 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/kwd-plandas.jpg?raw=true)
 
