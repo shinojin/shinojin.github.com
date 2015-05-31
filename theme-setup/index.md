@@ -26,7 +26,7 @@ image:
       alt="Beach hut" title="Attraction of cheongyang">  
 	<area href="http://tour.inje.go.kr" shape="rect" coords="278,55,374,76"
       alt="Beach hut" title="Attraction of Inje">  
-	 <area href="http://tour.dangjin.go.kr" shape="rect" coords="105,216,134,245"
+	 <area href="http://tour.dangjin.go.kr" shape="rect" coords="99,215,134,240"
       alt="Beach hut" title="Attraction of dangjin">  
 	 <area href="http://www.citytourbusan.com" shape="rect" coords="391,454,423,480"
       alt="Beach hut" title="Attraction of busan">  
