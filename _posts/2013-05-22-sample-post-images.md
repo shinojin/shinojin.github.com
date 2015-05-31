@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Post with Images"
-excerpt: "Examples and code for displaying images in posts."
+title: "전라도"
+excerpt: "전라도 여행지 포스트입니다."
 tags: [sample post, images, test]
 comments: true
 ---
