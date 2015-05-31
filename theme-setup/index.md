@@ -29,8 +29,7 @@ image:
       alt="Beach hut" title="Attraction of busan">  
 	 <area href="http://tour.jongno.go.kr" shape="rect" coords="134,108,167,125"
       alt="Beach hut" title="Attraction of seoul">  
-		 <area href="http://tour.jongno.go.kr" shape="rect" coords="455,276,712,561"
-      alt="Beach hut" title="Attraction of nnn">  
+      
   </map>
 </div>
 <p><img src="tournew1000.png" alt="" usemap="#koreanmap" width="712" height="561" ></p>
