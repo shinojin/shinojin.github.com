@@ -30,7 +30,7 @@ image:
       alt="Beach hut" title="Attraction of dangjin">  
 	 <area href="http://www.citytourbusan.com" shape="rect" coords="361,400,403,430"
       alt="Beach hut" title="Attraction of busan">  
-	 <area href="http://tour.jongno.go.kr" shape="rect" coords="154,128,187,145"
+	 <area href="http://tour.jongno.go.kr" shape="rect" coords="134,108,167,125"
       alt="Beach hut" title="Attraction of seoul">  
 	
   </map>
