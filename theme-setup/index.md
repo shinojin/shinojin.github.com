@@ -5,8 +5,6 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 image:
   feature: sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 <html>
 <head>
@@ -22,7 +20,7 @@ image:
       alt="Beach hut" title="Attraction of Shinan">  
 	<area href="http://tour.taebaek.go.kr" shape="rect" coords="368,178,389,200"
       alt="Beach hut" title="Attraction of Taebaek">    
-	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="80,110,135,180"
+	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="121,270,147,295"
       alt="Beach hut" title="Attraction of cheongyang">  
 	<area href="http://tour.inje.go.kr" shape="rect" coords="254,38,280,65"
       alt="Beach hut" title="Attraction of Inje">  
@@ -32,10 +30,11 @@ image:
       alt="Beach hut" title="Attraction of busan">  
 	 <area href="http://tour.jongno.go.kr" shape="rect" coords="134,108,167,125"
       alt="Beach hut" title="Attraction of seoul">  
-	
+		 <area href="http://tour.jongno.go.kr" shape="rect" coords="455,276,712,561"
+      alt="Beach hut" title="Attraction of nnn">  
   </map>
 </div>
-<p><img src="tournew1000.png" alt="" usemap="#koreanmap"></p>
+<p><img src="tournew1000.png" alt="" usemap="#koreanmap" width="712" height="561" ></p>
 
 
 </body>
