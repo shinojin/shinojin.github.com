@@ -14,5 +14,3 @@ image:
 
 * ‘연인’들이 1박 2일로 가기 좋은 여행지 (구체적 위치, 맛집, 숙박시설 정보 제공)
 * easy to get information through click! 
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
