@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "경기도 · 강원도"
-author: 오병호
+author: billy_rick
 modified:
 excerpt: "경기도, 강원도 여행지 포스트입니다."
 tags: []
 ---
 
-{% highlight yaml %}
 ### 경기도 
 
 * 도시 : 가평
