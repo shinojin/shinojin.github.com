@@ -16,15 +16,13 @@ image:
 
 - 관광명소 : 첨성대
 
-  [버드파크](http://www.birdparks.co.kr)
-  
- [민속공예촌](www.kyongju-fcv.com)
- 
- [캘리포니아비치](www.gjw.co.kr/california)
+    [버드파크](http://www.birdparks.co.kr)
+    [민속공예촌](www.kyongju-fcv.com)
+    [캘리포니아비치](www.gjw.co.kr/california)
 
 - 맛집 : [전통맷돌 순두부](www.전통맷돌순두부.com/)
 
-  [유수정 쌈밥](cityfood.co.kr/h9/yoosoojeong)
+    [유수정 쌈밥](cityfood.co.kr/h9/yoosoojeong)
 
 - 숙박시설 : [몽마르뜨 펜션](www.mmrt.co.kr)
  
