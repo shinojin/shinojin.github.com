@@ -16,7 +16,7 @@ comments: true
 
 - 맛집 : [항교죽녹원 식당](http://blog.naver.com/orangealive/220295231574)
 
-![항교죽녹원 식당](https://github.com/shinojin/shinojin.github.com/blob/master/images/damyanghanggyozukdocwon.jpg?raw=true)
+ ![항교죽녹원 식당](https://github.com/shinojin/shinojin.github.com/blob/master/images/damyanghanggyozukdocwon.jpg?raw=true)
 
 - 숙박시설 : [담양메타 펜션](http://metastory.co.kr)
 ![담양메타 펜션](https://github.com/shinojin/shinojin.github.com/blob/master/images/jj-damgyang%20meta.jpg?raw=true)
