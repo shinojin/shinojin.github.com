@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "경기도 강원도"
-author: billy_rick
-modified:
+author: 오병호
 excerpt: "경기도 강원도 여행지 포스트입니다."
 tags: []
 ---
