@@ -7,4 +7,4 @@ excerpt: "A post to test author overrides using a data file."
 tags: []
 ---
 
-<a href="https://www.naver.com">네이버</a>
+<a href="http://www.naver.com">네이버</a>
