@@ -34,7 +34,7 @@ image:
       alt="Beach hut" title="Attraction of nnn">  
   </map>
 </div>
-<p><img src="tournew1000.png" alt="" usemap="#koreanmap"></p>
+<p><img src="tournew1000.png" alt="" usemap="#koreanmap" width="712" height="561" ></p>
 
 
 </body>
