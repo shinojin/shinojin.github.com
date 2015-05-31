@@ -20,7 +20,7 @@ image:
       alt="Beach hut" title="Attraction of Shinan">  
 	<area href="http://tour.taebaek.go.kr" shape="rect" coords="368,178,389,200"
       alt="Beach hut" title="Attraction of Taebaek">    
-	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="80,110,135,180"
+	<area href="http://tour.cheongyang.go.kr" shape="rect" coords="122,282,150,300"
       alt="Beach hut" title="Attraction of cheongyang">  
 	<area href="http://tour.inje.go.kr" shape="rect" coords="254,38,280,65"
       alt="Beach hut" title="Attraction of Inje">  
